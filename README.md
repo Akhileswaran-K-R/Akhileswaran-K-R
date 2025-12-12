@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-sigma-lilac.vercel.app/?user=Akhileswaran-K-R&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-ak.vercel.app/?user=Akhileswaran-K-R&theme=radical" alt="GitHub Streak"/>
 </p>
 
 
